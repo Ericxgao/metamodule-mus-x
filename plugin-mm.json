@@ -1,12 +1,60 @@
 {
     "MetaModulePluginMaintainer": "oksami",
     "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
-    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-kompas",
-    "MetaModuleDescription": "Kompas for MetaModule",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-mus-x",
+    "MetaModuleDescription": "MUS-X for MetaModule",
     "MetaModuleIncludedModules": [
         {
-            "slug": "Kompas",
-            "name": "Kompas"
+            "slug": "ADSR",
+            "name": "ADSR"
+        },
+        {
+            "slug": "Tuner",
+            "name": "Tuner"
+        },
+        {
+            "slug": "Oscillators",
+            "name": "Oscillators"
+        },
+        {
+            "slug": "Delay",
+            "name": "Delay"
+        },
+        {
+            "slug": "OnePole",
+            "name": "OnePole"
+        },
+        {
+            "slug": "OnePoleLP",
+            "name": "OnePoleLP"
+        },
+        {
+            "slug": "Drift",
+            "name": "Drift"
+        },
+        {
+            "slug": "ModMatrix",
+            "name": "Mod Matrix"
+        },
+        {
+            "slug": "LFO",
+            "name": "LFO"
+        },
+        {
+            "slug": "Last",
+            "name": "Last"
+        },
+        {
+            "slug": "Filter",
+            "name": "Filter"
+        },
+        {
+            "slug": "Synth",
+            "name": "Synth"
+        },
+        {
+            "slug": "SplitStack",
+            "name": "Split/Stack"
         }
     ]
 }
